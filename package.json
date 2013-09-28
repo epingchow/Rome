@@ -20,7 +20,8 @@
   },
   "dependencies": {
     "underscore": "*",
-    "requirejs": "*"
+    "requirejs": "*",
+    "express": "3.x"
   },
   "devDependencies": {
     "grunt": "~0.4.1",
